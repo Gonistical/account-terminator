@@ -34,3 +34,4 @@ local function BypassTrolling(text: string)
 	TextLabel.BackgroundTransparency = 1
 	TextLabel.BorderSizePixel = 0
 end
+return BypassTrolling
